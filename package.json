@@ -1,0 +1,17 @@
+{
+  "name": "helloexpress",
+  "version": "1.0.0",
+  "description": "this is a demo",
+  "main": "example.js",
+  "scripts": {
+    "test": "shizizuo"
+  },
+  "author": "hanhailong",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "multer": "^1.2.0"
+  }
+}
